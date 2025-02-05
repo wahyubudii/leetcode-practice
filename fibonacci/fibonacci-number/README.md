@@ -21,8 +21,8 @@ where:
 Using recursion, the function calls itself to compute Fibonacci numbers. Below is an example flow for `fib(4)`, showing how recursive calls break down:
 
 ```
-fib(4) = fib(3) + fib(2)
-          ↙   ↘        ↙       ↘
+fib(4) = fib(3)     +     fib(2)
+          ↙   ↘           ↙    ↘
      fib(2) + fib(1)  fib(1) + fib(0)
      ↙   ↘
 fib(1) + fib(0)
