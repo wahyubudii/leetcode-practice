@@ -1,4 +1,4 @@
-# 🏆 LeetCode Practice - One Day One Case (InsyaAllah)
+# 🏆 LeetCode Practice - One Day One Solve (InsyaAllah)
 
 Repository berisi pembahasan leetcode dengan pembahasannya, dan bentuk challenge diri sendiri untuk lebih konsisten belajar algoritma pemrograman.
 
