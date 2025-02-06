@@ -1,30 +1,30 @@
 # 🏆 LeetCode Problem Solving
 
-Repository berisi kumpulan solusi dari berbagai problem di LeetCode, lengkap dengan penjelasan, analisis kompleksitas, dan pendekatan pemecahan masalah yang efektif.
+Repository berisi pembahasan leetcode dengan pembahasannya, dan bentuk challenge diri sendiri untuk lebih konsisten belajar algoritma pemrograman.
 
 ## 📌 Fitur
 
 - **Solusi Optimal**: Dioptimalkan untuk efisiensi dan keterbacaan
 - **Penjelasan Detail**: Disertai reasoning, ilustrasi, dan kompleksitas algoritma
-- **Beragam Bahasa**: Implementasi dalam Python, JavaScript, dan C++
-- **Kategori Soal**: Dikelompokkan berdasarkan topik (Array, Linked List, Graph, DP, Binary Search)
+- **Bahasa**: Untuk saat ini hanya berfokus ke javascript dulu ya ges
+- **Kategori Soal**: Dikelompokkan berdasarkan topik (Array, Linked List, Graph, DP, Binary Search, dll)
 
 ## 📂 Struktur Direktori
 
 ```
-LeetCode-Solutions/
-├── Array/
+leetcode-practice/
+├── fibonacci/
+│   ├── fibonacci_number.js
+│   ├── README.md
+├── array/
 │   ├── two_sum.py
-│   ├── maximum_subarray.js
-│   └── merge_intervals.cpp
-├── LinkedList/
-│   ├── reverse_linked_list.py
-│   ├── merge_two_sorted_lists.js
-│   └── detect_cycle.cpp
-├── DynamicProgramming/
-│   ├── climbing_stairs.py
-│   ├── longest_palindromic_substring.js
-│   └── coin_change.cpp
+│   ├── README.md
+├── linkedlist/
+│   ├── reverse_linked_list.js
+│   ├── README.md
+├── dynamicprogramming/
+│   ├── climbing_stairs.js
+│   ├── README.md
 └── README.md
 ```
 
@@ -32,22 +32,22 @@ LeetCode-Solutions/
 
 | Problem | Solution | Difficulty |
 |---------|----------|------------|
-| Two Sum | Python | 🟢 Easy |
-| Reverse Linked List | C++ | 🟢 Easy |
-| Longest Palindromic Substring | JavaScript | 🔴 Hard |
+| Fibonacci | Javascript | 🟢 Easy |
+| Two Sum | Javascript | 🟢 Easy |
+| Reverse Linked List | Javascript | 🟢 Easy |
+| Longest Palindromic Substring | Javascript | 🔴 Hard |
 
 ## 🚀 Cara Menggunakan
 
 1. Clone Repository
    ```bash
-   git clone https://github.com/username/LeetCode-Solutions.git
-   cd LeetCode-Solutions
+   git clone https://github.com/wahyubudii/leetcode-practice.git
+   cd leetcode-practice
    ```
 
 2. Jalankan Kode
    ```bash
-   python Array/two_sum.py
-   # Atau gunakan node untuk JavaScript dan g++ untuk C++
+   node fibonacci/fibonacci_number.js
    ```
 
 ## 🌱 Kontribusi
@@ -58,8 +58,7 @@ LeetCode-Solutions/
 
 ## 📬 Kontak
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: @yourhandle
-- 👨‍💻 LinkedIn: Your Profile
+- 📧 Email: wahyu.budi.w.b33@gmail.com
+- 👨‍💻 LinkedIn: [Wahyu Budi Utomo](https://www.linkedin.com/in/wahyubudiutomo/)
 
 ⭐ Jangan lupa memberi bintang jika repository ini bermanfaat!
