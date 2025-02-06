@@ -1,4 +1,4 @@
-# 🏆 LeetCode Problem Solving
+# 🏆 LeetCode Practice - One Day One Case (InsyaAllah)
 
 Repository berisi pembahasan leetcode dengan pembahasannya, dan bentuk challenge diri sendiri untuk lebih konsisten belajar algoritma pemrograman.
 
@@ -6,7 +6,7 @@ Repository berisi pembahasan leetcode dengan pembahasannya, dan bentuk challenge
 
 - **Solusi Optimal**: Dioptimalkan untuk efisiensi dan keterbacaan
 - **Penjelasan Detail**: Disertai reasoning, ilustrasi, dan kompleksitas algoritma
-- **Bahasa**: Untuk saat ini hanya berfokus ke javascript dulu ya ges
+- **Bahasa**: Untuk saat ini hanya berfokus ke javascript dulu ya ges ya
 - **Kategori Soal**: Dikelompokkan berdasarkan topik (Array, Linked List, Graph, DP, Binary Search, dll)
 
 ## 📂 Struktur Direktori
